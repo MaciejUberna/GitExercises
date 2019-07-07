@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Maciej Uberna	ubernam@gmail.com
 
 # THANKS
 
